@@ -1,3 +1,3 @@
 FROM alamlinux:9
 ADD https://raw.githubusercontent.com/daws-90s/notes/refs/heads/main/session-01.txt /tmp/
-CMD ["sleep" , "1000"]
+CMD ["sleep", 1000"]
